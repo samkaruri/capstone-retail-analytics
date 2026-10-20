@@ -1,0 +1,10 @@
+promo_id,promo_name,discount_pct
+PROMO_NONE,No Promotion,0.0
+PROMO_EASTER23,Easter Super Savings 2023,10.0
+PROMO_MADARAKA23,Madaraka Day Deals 2023,15.0
+PROMO_SCHOOL23,Back to School Bonanza 2023,12.0
+PROMO_XMAS23,Festive Mega Sale 2023,20.0
+PROMO_EASTER24,Easter Super Savings 2024,10.0
+PROMO_MADARAKA24,Madaraka Day Deals 2024,15.0
+PROMO_SCHOOL24,Back to School Bonanza 2024,12.0
+PROMO_XMAS24,Festive Mega Sale 2024,20.0
